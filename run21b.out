@@ -1,0 +1,5 @@
+n=21 d=6 H=6 [maxdeg]: UNSAT (0s)
+n=21 d=4 g=7/11 H=6 [strict maxdeg+N0]: UNSAT (2s)
+n=21 d=4 g=6/11 H=6 [strict maxdeg+N0]: UNSAT (3s)
+n=21 d=4 g=5/11 H=6 [strict maxdeg+N0]: UNSAT (15s)
+n=21 d=5 g=3/34 H=6 [strict maxdeg+N0]: UNSAT (90s)
