@@ -1,0 +1,4 @@
+n=17 d=7 H=5 [maxdeg]: UNSAT (0s)
+n=17 d=11 H=5 [maxdeg]: UNSAT (0s)
+n=17 d=1 H=5 [maxdeg]: UNSAT (0s)
+n=17 d=9 H=5 [maxdeg]: UNSAT (0s)

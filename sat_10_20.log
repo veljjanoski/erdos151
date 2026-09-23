@@ -1,0 +1,4 @@
+n=10 H=4 threshold n-H=6 [tau > n-H]: UNSAT (2880 vars, 6796 clauses, 0.3s)
+n=11 H=4 threshold n-H=7 [tau > n-H]: UNSAT (4730 vars, 11111 clauses, 0.2s)
+n=12 H=4 threshold n-H=8 [tau > n-H]: UNSAT (7447 vars, 17392 clauses, 0.3s)
+n=13 H=4 threshold n-H=9 [tau > n-H]: UNSAT (11310 vars, 26248 clauses, 0.3s)
